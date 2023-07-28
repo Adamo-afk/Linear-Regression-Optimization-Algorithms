@@ -1,1 +1,3 @@
 # Linear-Regression-Optimization-Algorithms
+Description:
+The Linear-Regression-Optimization-Algorithms project is a comprehensive repository that focuses on training a linear regression model using various optimization algorithms. Linear regression is a fundamental statistical method used for predicting numerical values based on input features. This project aims to explore and compare the performance of different optimization techniques such as Gradient Descent, Stochastic Gradient Descent (SGD), and Mini-batch Gradient Descent in finding the optimal parameters for the linear regression model, thus enabling more accurate predictions and better generalization.
